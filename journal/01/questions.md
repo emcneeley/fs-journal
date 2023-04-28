@@ -38,6 +38,8 @@
 10. Define the display `:flex property:`
     > |From (google) It encompasses the  flex-items, so if the container's item is not a flex-item, the flex property will not affect the corresponding item.
 
+    It allows there to be ajustment within the defined flex item. 
+
 |
 
 11. What `CSS` properties affect the size of a box model?
