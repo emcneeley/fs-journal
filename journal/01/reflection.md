@@ -3,6 +3,8 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
-- What did you learn that was a shock or surprise?
-- What are you struggling with?
-- What would you count as a victory?
+I was surpised the way that I was able to pick up some of the concepts this week. 
+- What did you learn that was a shock or surprise? I knew before hand that I should take things slow but I didnt realize that the entirety of software engineering is problem solving. Which I love and I am excited to continue this journey. 
+- What are you struggling with? I am just struggling with the slowing things down part. 
+If you take things piece by piece you can accomplish anything. This is something ive struggled with forever and im glad im learning this in the first week.
+- What would you count as a victory? being able to complete the labs individually and with coworkers. 
