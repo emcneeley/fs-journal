@@ -32,7 +32,7 @@
 
 07. What is middleware?
 
-  > | protection and authorization|
+  > | protection and authorization (Auth0) everythiong below it has to be checked for authorization|
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
