@@ -22,7 +22,7 @@
 06. What are the three types of data relationships? Provide an example of each.
 
   > | one to one 
-      *like planet and its ID 
+      *like planet and it's ID 
       
       One to many
         *planet ID and universe 
