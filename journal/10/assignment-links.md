@@ -1,5 +1,5 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/emcneeley/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/emcneeley/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/emcneeley/<ASSIGNMENT_REPO>)**
+* **[TODO](https://github.com/emcneeley/Todo.git)**
+* **[Rgregslist](https://github.com/emcneeley/gregslist.git)**
+* **[SPICE](https://github.com/emcneeley/AllSpice.client.git)**
