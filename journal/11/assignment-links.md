@@ -1,4 +1,4 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/emcneeley/<ASSIGNMENT_REPO>)**
+* **[ALL SPICE](https://github.com/emcneeley/AllSpice.client.git)**
 
